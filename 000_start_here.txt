@@ -1,0 +1,32 @@
+# Trading Bot Project Guide
+
+## Project Structure Overview
+- `/project_management/` - High-level project management information
+- `/reference_files/` - Feature-specific documentation and progress tracking
+- `index.txt` - Index of all reference files
+- `current_phase.txt` - Current project phase and progress tracking
+
+## Development Guidelines
+1. Always update the current_phase.txt file with:
+   - Completed work
+   - Current progress
+   - Next steps
+   
+2. When working on features:
+   - Check corresponding reference file in /reference_files/
+   - Update progress in the reference file
+   - Ensure continuity between sessions
+
+3. Project Phases:
+   - Each phase has its own checklist file
+   - Follow phase objectives and requirements
+   - Mark items complete as you progress
+
+4. Dependencies Management:
+   - All new dependencies must be documented
+   - Use package.json for Node.js dependencies
+   - Document external service dependencies separately
+
+## Current Status
+The project is currently in Phase 1: Initial Setup
+Please refer to /project_management/phase_1_checklist.txt for current tasks.

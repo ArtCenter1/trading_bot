@@ -1,0 +1,27 @@
+# Reference Files Index
+
+## Project Management
+- project_overview.txt - High-level project description and goals
+- project_roadmap.txt - Project phases and milestones
+- current_phase.txt - Current phase status and progress
+
+## Feature Reference Files
+1. trading_strategy.md
+   - Trading strategy implementation details
+   - Algorithm specifications
+   - Progress tracking
+
+2. risk_management.md
+   - Risk management rules
+   - Position sizing logic
+   - Stop-loss implementation
+
+3. market_integration.md
+   - Exchange API integration
+   - Market data handling
+   - Order execution system
+
+4. performance_monitoring.md
+   - Bot performance metrics
+   - Logging system
+   - Alert mechanisms
