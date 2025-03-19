@@ -1,0 +1,45 @@
+# Trading Bot Project Overview
+
+## Project Description
+An automated trading bot designed to execute trades based on predefined strategies while maintaining risk management principles.
+
+## Core Objectives
+1. Automated Trading Execution
+2. Risk Management
+3. Performance Monitoring
+4. Market Analysis
+5. Portfolio Management
+
+## Key Features
+1. Trading Strategy Implementation
+   - Custom strategy definition
+   - Multiple timeframe analysis
+   - Signal generation
+
+2. Risk Management System
+   - Position sizing
+   - Stop-loss management
+   - Portfolio exposure limits
+
+3. Market Integration
+   - Real-time market data
+   - Order execution
+   - Account management
+
+4. Monitoring and Reporting
+   - Performance metrics
+   - Trade logging
+   - Alert system
+
+## Technical Stack
+- Node.js/TypeScript
+- React (Frontend Dashboard)
+- Database for trade logging
+- Exchange APIs integration
+
+## Success Criteria
+1. Reliable trade execution
+2. Proper risk management
+3. Accurate performance tracking
+4. System stability
+5. Real-time monitoring capabilities
